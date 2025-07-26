@@ -31,6 +31,11 @@ const builder = createBuilderFactory(class {
 builder().withSomething('value').build();
 ```
 
-## License
+## 📄 License
+
+See [LICENSE](./LICENSE) for full details.
+
+---
 
 MIT © Stepan Matafonov
+
