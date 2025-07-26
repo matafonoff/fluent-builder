@@ -18,6 +18,10 @@
         "fluent",
         "chainable"
     ],
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/matafonoff/fluent-builder"
+    },
     "author": "Stepan Matafonov",
     "license": "MIT",
     "devDependencies": {
