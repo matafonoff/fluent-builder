@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "module": "ESNext",
+        "declaration": true,
+        "outDir": "dist",
+        "strict": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "paths": {
+            "@xelbera/fluent-builder": [
+                "./src/index.ts"
+            ]
+        }
+    },
+    "include": [
+        "src",
+        "examples"
+    ]
+}

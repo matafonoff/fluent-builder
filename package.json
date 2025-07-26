@@ -1,0 +1,29 @@
+{
+    "name": "@xelbera/fluent-builder",
+    "version": "1.0.0",
+    "description": "Type-safe, fluent, chainable builder DSL for TypeScript.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "packageManager": "yarn@1.22.22",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest",
+        "prepare": "npm run build",
+        "prepublish": "yarn build"
+    },
+    "keywords": [
+        "builder",
+        "typescript",
+        "dsl",
+        "fluent",
+        "chainable"
+    ],
+    "author": "Stepan Matafonov",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^29.5.4",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.1.1",
+        "typescript": "^5.3.3"
+    }
+}

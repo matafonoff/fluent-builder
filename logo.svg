@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60" fill="none">
+  <rect x="0" y="15" width="40" height="30" rx="6" fill="#2e2e2e"/>
+  <rect x="50" y="15" width="40" height="30" rx="6" fill="#555"/>
+  <rect x="100" y="15" width="40" height="30" rx="6" fill="#999"/>
+  <text x="160" y="37" font-family="sans-serif" font-size="24" fill="#2e2e2e">fluent-builder</text>
+</svg>
